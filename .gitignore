@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# UNKAI local artifacts
+*.npy
+*.pth
+hf_model/
+hf_dataset/
+.DS_Store
