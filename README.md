@@ -139,12 +139,14 @@ UNKAI/
 Pretrained weights:
 
 * Hugging Face model repository: `ukaikotaro/UNKAI`
+https://huggingface.co/ukaikotaro/UNKAI
 
 ## Dataset
 
 Released datasets:
 
 * Hugging Face dataset repository: `ukaikotaro/UNKAI-dataset`
+https://huggingface.co/datasets/ukaikotaro/UNKAI-dataset
 
 ## Embeddings
 
