@@ -160,5 +160,5 @@ Citation information will be added here.
 
 ## License
 
-License information will be added here.
+* The source code of this notebook is licensed under MIT.
 
