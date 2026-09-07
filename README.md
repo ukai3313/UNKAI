@@ -152,7 +152,8 @@ https://huggingface.co/datasets/ukaikotaro/UNKAI-dataset
 
 UNKAI requires precomputed per-residue protein embeddings with dimensionality 2560.
 
-The embedding dataset is planned to be distributed separately.
+* Hugging Face dataset repository: `ukaikotaro/UNKAI-embeddings`
+https://huggingface.co/datasets/ukaikotaro/UNKAI-embeddings
 
 ## Citation
 
