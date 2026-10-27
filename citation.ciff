@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use UNKAI in your research, please cite the following paper."
+title: "UNKAI"
+authors:
+  - family-names: Ukai
+    given-names: Kotaro
+  - family-names: Fujita
+    given-names: Suguru
+    orcid: "https://orcid.org/0000-0001-7488-0045"
+  - family-names: Terada
+    given-names: Tohru
+    orcid: "https://orcid.org/0000-0002-7091-0646"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Ukai
+      given-names: Kotaro
+    - family-names: Fujita
+      given-names: Suguru
+    - family-names: Terada
+      given-names: Tohru
+  title: "UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism"
+  journal: "Computational and Structural Biotechnology Journal"
+  volume: 35
+  issue: 1
+  year: 2026
+  doi: "10.34133/csbj.0206"
