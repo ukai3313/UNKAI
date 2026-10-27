@@ -157,9 +157,27 @@ https://huggingface.co/datasets/ukaikotaro/UNKAI-embeddings
 
 ## Citation
 
-Citation information will be added here.
+If you use UNKAI in your research, please cite:
 
+> Ukai K, Fujita S, Terada T.
+> **UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism.**
+> *Computational and Structural Biotechnology Journal*. 2026;35(1):0206.
+> https://doi.org/10.34133/csbj.0206
+
+### BibTeX
+
+```bibtex
+@article{ukai2026unkai,
+  title   = {UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism},
+  author  = {Ukai, Kotaro and Fujita, Suguru and Terada, Tohru},
+  journal = {Computational and Structural Biotechnology Journal},
+  volume  = {35},
+  number  = {1},
+  year    = {2026},
+  doi     = {10.34133/csbj.0206},
+  url     = {https://doi.org/10.34133/csbj.0206}
+}
 ## License
 
-* The source code of this notebook is licensed under MIT.
+* The source code in this repository is licensed under the MIT License.
 
